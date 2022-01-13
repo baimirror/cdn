@@ -3,5 +3,5 @@ $(document).ready(function() {
 	setTimeout(function () {
         $("#loading").remove();   
 	    $(".banner-top,.banner-wtop").addClass("opacity-top");
-    }, 2000);
+    }, 20);
 });
